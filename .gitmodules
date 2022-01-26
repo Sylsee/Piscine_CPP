@@ -4,6 +4,3 @@
 [submodule "D01"]
 	path = D01
 	url = git@github.com:Sylsee/D01.git
-[submodule "D02"]
-	path = D02
-	url = git@github.com:Sylsee/D02.git
